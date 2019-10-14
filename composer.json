@@ -1,0 +1,14 @@
+{
+    "name": "nik/php-project-lvl1",
+    "authors": [
+        {
+            "name": "n4ssek",
+            "email": "nass3k@gmail.com"
+        }
+    ],
+    "bin": [
+        "bin/brain-games"
+    ],
+
+    "require": {}
+}
